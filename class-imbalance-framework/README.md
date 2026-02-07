@@ -14,7 +14,7 @@
 
 1. Data Preprocessing  
 2. Imbalance Handling (Data-level)  
-3. Model Design & Training  
+3. Model Design & Training (Algorithm-level) 
 4. Evaluation (Precision, Recall, F1-score, AUC 중심 평가)
 
 각 도메인별 실험은 위 구조를 기반으로 구성되어 있습니다.
